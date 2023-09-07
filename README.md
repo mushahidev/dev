@@ -6,11 +6,17 @@ Hello and welcome to the Flutter Widget repository! This place is filled with ex
 </br>
 <ul>
 LinkedIn: 
+  </br>
 Dribbble: 
+  </br>
 HackerRank: 
+  </br>
 Instagram: 
+  </br>
 YouTube: 
+  </br>
 Facebook: 
+  </br>
 Twitter: 
 </ul>
 </br>
